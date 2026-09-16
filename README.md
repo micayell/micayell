@@ -7,9 +7,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Hello,+Welcome+to+My+GitHub!;Frontend,+Backend,+and+AI+Developer" alt="Typing SVG" />
 </a>
 
-<!-- 4. 방문자 수 카운터 (Hits) -->
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmicayell&count_bg=%233178C6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits"/>
+<!-- 4. 방문자 수 카운터 (Profile Views) -->
+<a href="https://github.com/micayell">
+  <img src="https://komarev.com/ghpvc/?username=micayell&color=3178C6&style=flat-square&label=VISITORS" alt="Profile Views" />
 </a>
 
 <br />
@@ -44,11 +44,11 @@
 <!-- 2. 깃허브 스탯 & Top Languages 카드 -->
 ### 📊 GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=micayell&show_icons=true&theme=tokyonight&rank_icon=github" height="150" alt="GitHub Stats" />
+<a href="https://github.com/micayell">
+  <img src="https://streak-stats.demolab.com?user=micayell&theme=tokyonight" height="150" alt="GitHub Streak" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=micayell&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+<a href="https://github.com/micayell">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micayell&theme=tokyonight" height="150" alt="GitHub Profile Summary" />
 </a>
 
 <br />
